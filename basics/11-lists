@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la ; cd /boot ; ls -la
+./command1 ./command2 ./command3
