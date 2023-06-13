@@ -1,2 +1,4 @@
 #!/bin/bash
-./command1 ./command2 ./command3
+ls -la
+ls -la /root
+ls -la /boot 
