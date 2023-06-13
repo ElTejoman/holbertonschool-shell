@@ -1,2 +1,2 @@
 #!/bin/bash
-source generador12 
+file /tmp/iamafile 
