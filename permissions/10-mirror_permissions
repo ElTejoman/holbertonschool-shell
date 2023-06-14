@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod cp -p --preserve=context hello olleh 
+chmod --reference=olleh hello 
